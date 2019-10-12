@@ -4,5 +4,8 @@
 *.iml
 
 /target
-
+*.jar
+*/target
 *.class
+*.original
+*.lst
